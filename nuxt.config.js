@@ -10,7 +10,7 @@ export default {
     // css: [
     //   '~/assets/app.css',
     // ],
-    title: 'first-nuxt-site',
+    title: 'A Change Is Coming',
     htmlAttrs: {
       lang: 'en'
     },

@@ -15,7 +15,7 @@
       </nav> 
       <div class="tc-l mt4 mt5-m mt6-l ph3">
         <h1 class="f2 f1-l fw4 white-90 mb0 lh-title">Change Is Coming</h1>
-        <h2 class="fw1 f3 white-80 mt3 mb4">An upcoming drama performance about the 1960s Greensboro, North Carolina student Sit-In</h2>
+        <h2 class="fw1 f3 white-80 mt3 mb4">A play about racism and love. The recreation of the 1960 student sit-in at a North Carolina lunch counter.</h2>
         <a class="f6 no-underline grow dib v-mid bg-blue white ba b--blue ph3 pv2 mb3" href="#signup">Tickets Available Soon</a>
       </div>
     </div>

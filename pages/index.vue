@@ -2,7 +2,6 @@
   <article class="sans-serif">
     <Header/>
     <Location/>
-    <SignUp/>
     <History/>
     <Performers/>
   </article>

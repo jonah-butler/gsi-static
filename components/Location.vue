@@ -13,6 +13,7 @@
       class="f4 fw6 db black link dim">
         <h4 class="f3 fw1 georgia i">305 East Nine Mile Road, Highland Springs, Va</h4>
       </a>
+      <a href="https://www.brownpapertickets.com/event/5390501" class="no-underline f6 tc db w-100 pv3 bg-animate bg-blue hover-bg-dark-blue white br2">Buy Tickets</a>
     </div>
   </article>
 </template>
